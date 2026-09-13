@@ -106,7 +106,7 @@ export const Hero = () => {
               <AnimatedBorderButton
                 onClick={() =>
                   window.open(
-                    "https://drive.google.com/file/d/1PKA2Ij0CTkklbEqPIyvxHpsigXlVsqC_/view?usp=sharing",
+                    "https://drive.google.com/file/d/1OGgvcjsRt2n0Es5-QaAvIWyUh-sMW5sP/view?usp=sharing",
                     "_blank",
                     "noopener,noreferrer",
                   )
