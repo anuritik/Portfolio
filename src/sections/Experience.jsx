@@ -1,5 +1,14 @@
 const experiences = [
   {
+    period: "Sep 2026 — Present",
+    role: "ESDD INTERN",
+    company: "KritiKal Solutions",
+    description:
+      "Debugging and resolving issues in existing C# software, optimizing functionality, and working with an existing codebase to improve software reliability and performance.",
+    technologies: ["C#", "Debugging", "Software Optimization"],
+    current: true,
+  },
+  {
     period: "Nov 2025 — Mar 2026",
     role: "FULL STACK DEVELOPER",
     company: "Alpha Lion Trucking",
