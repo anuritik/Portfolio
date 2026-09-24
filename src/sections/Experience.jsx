@@ -4,8 +4,13 @@ const experiences = [
     role: "ESDD INTERN",
     company: "KritiKal Solutions",
     description:
-      "Debugging and resolving issues in existing C# software, optimizing functionality, and working with an existing codebase to improve software reliability and performance.",
-    technologies: ["C#", "Debugging", "Software Optimization"],
+      "Working on PC Utility Software used to operate hardware systems. Debugging and resolving issues in an existing C# codebase, analyzing software behavior, and optimizing existing functionality for improved reliability and performance.",
+    technologies: [
+      "C#",
+      "PC Utility Software",
+      "Debugging",
+      "Software Optimization",
+    ],
     current: true,
   },
   {
